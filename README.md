@@ -61,6 +61,17 @@ This lab demonstrates how security teams:
 
 ---
 
+## 🧠 Threat Mapping
+
+This project uses MITRE ATT&CK framework concepts to classify the attack:
+
+- T1110: Brute Force
+- T1078: Valid Accounts
+
+This improves detection and response standardization.
+
+---
+
 ## 💡 Key Takeaway
 
 Incident response is not only about detecting threats, but taking structured actions to contain and mitigate risks.
