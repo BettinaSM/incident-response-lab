@@ -2,13 +2,13 @@
 
 echo "Executing incident response..."
 
-echo "Locking compromised account..."
-echo "userdel unknown_user"
+echo "[SIMULATION] Locking compromised account..."
+echo "[SIMULATION] userdel unknown_user"
 
-echo "Blocking suspicious IP..."
-echo "iptables -A INPUT -s 192.168.1.10 -j DROP"
+echo "[SIMULATION] Blocking suspicious IP..."
+echo "[SIMULATION] iptables -A INPUT -s 192.168.1.10 -j DROP"
 
-echo "Enforcing SSH hardening..."
-echo "Disable password authentication"
+echo "[SIMULATION] Enforcing SSH hardening..."
+echo "[SIMULATION] Disable password authentication"
 
 echo "Incident response completed."
