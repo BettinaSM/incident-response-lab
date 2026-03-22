@@ -1,2 +1,2 @@
-ALERT: Possible brute force attack detected
-ALERT: Suspicious login detected
+ALERT: Possible brute force attack detected (High severity)
+ALERT: Suspicious login detected (Potential account compromise)
