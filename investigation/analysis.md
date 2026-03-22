@@ -3,6 +3,13 @@
 ## Incident Type
 Brute Force Attack
 
+## Severity
+High
+
+## MITRE ATT&CK
+- T1110 (Brute Force)
+- T1078 (Valid Accounts)
+  
 ## Evidence
 
 - Multiple failed login attempts
