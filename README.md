@@ -1,12 +1,12 @@
 # 🚨 Incident Response Lab
 
-## 🔍 Overview
+##  Overview
 
 This project simulates an incident response process in a Linux environment, covering detection, investigation and response.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Simulate security incident handling  
 - Analyze suspicious login activity  
@@ -14,7 +14,7 @@ This project simulates an incident response process in a Linux environment, cove
 
 ---
 
-## 🔄 Incident Lifecycle
+##  Incident Lifecycle
 
 1. Detection (alerts generated)  
 2. Investigation (log analysis)  
@@ -22,20 +22,20 @@ This project simulates an incident response process in a Linux environment, cove
 
 ---
 
-## 🚨 Scenario
+##  Scenario
 
 Brute force attack followed by suspicious login.
 
 ---
 
-## 🔍 Investigation
+##  Investigation
 
 - Multiple failed login attempts identified  
 - Suspicious successful login detected  
 
 ---
 
-## ⚙️ Response Actions
+##  Response Actions
 
 - Lock compromised account  
 - Block malicious IP  
@@ -43,7 +43,7 @@ Brute force attack followed by suspicious login.
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Incident response workflow  
 - Log-based investigation  
@@ -51,7 +51,7 @@ Brute force attack followed by suspicious login.
 
 ---
 
-## 🔐 Security Perspective
+##  Security Perspective
 
 This lab demonstrates how security teams:
 
@@ -61,7 +61,7 @@ This lab demonstrates how security teams:
 
 ---
 
-## 🧠 Threat Mapping
+##  Threat Mapping
 
 This project uses MITRE ATT&CK framework concepts to classify the attack:
 
@@ -72,6 +72,6 @@ This improves detection and response standardization.
 
 ---
 
-## 💡 Key Takeaway
+##  Key Takeaway
 
 Incident response is not only about detecting threats, but taking structured actions to contain and mitigate risks.
